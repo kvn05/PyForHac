@@ -14,4 +14,5 @@ Remove the Background of an Image Using Python
 # 3. hide_message.py
 Hide secret message in Image using Python
   - install the necessary module:
+  - pip install stegano
 
