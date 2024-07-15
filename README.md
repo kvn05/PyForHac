@@ -10,3 +10,8 @@ Extract MP3 from MP4 Video with FFmpeg in Python 🎵
 Remove the Background of an Image Using Python
   - install the module
   - pip install rembg pillow
+
+# 3. hide_message.py
+Hide secret message in Image using Python
+  - install the necessary module:
+
