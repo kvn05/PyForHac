@@ -16,3 +16,4 @@ Hide secret message in Image using Python
   - install the necessary module:
   - pip install stegano
 
+# 4. generate_barcode.py
