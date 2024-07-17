@@ -20,6 +20,6 @@ Hide secret message in Image using Python
 Generate Barcode using Python 📦
   - install the module
   - pip install python-barcode
-  __In what way can this file aid you in reaching out?__
+  - _In what way can this file aid you in reaching out?_
       - A barcode is a machine-readable representation of data, typically used to store product information such as a unique identifier.
       - Barcodes are widely used in retail, logistics, and inventory management to streamline processes and improve accuracy.
