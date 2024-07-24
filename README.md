@@ -24,3 +24,9 @@ Generate Barcode using Python 📦
       - A barcode is a machine-readable representation of data, typically used to store product information such as a unique identifier.
       - Barcodes are widely used in retail, logistics, and inventory management to streamline processes and improve accuracy.
 
+# 5. take_screenshot.py
+Take a Screenshot using Python 🖥️
+  - install the library
+  - pip install PyAutoGUI
+  - __This script can be particularly useful in various scenarios_
+      - Monitoring: Automate screenshots for monitoring purposes.
