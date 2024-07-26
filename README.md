@@ -29,4 +29,4 @@ Take a Screenshot using Python 🖥️
   - install the library
   - pip install PyAutoGUI
   - __This script can be particularly useful in various scenarios_
-      - Monitoring: Automate screenshots for monitoring purposes.
+      - Monitoring: Automate screenshots for monitoring purposes..
