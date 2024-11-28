@@ -30,3 +30,12 @@ Take a Screenshot using Python 🖥️
   - pip install PyAutoGUI
   - __This script can be particularly useful in various scenarios_
       - Monitoring: Automate screenshots for monitoring purposes
+
+# 6. How to Increase YouTube Playback Speed Beyond 2x
+Steps to Set Custom Playback Speed on YouTube:
+1. Go to the video.
+2. Press CTRL + SHIFT + J or COMMAND + OPTION + J to open the JavaScript Console.
+3. Copy and paste the following:
+    - document.querySelector('video').playbackRate = x;
+  x equals the speed you want;
+4. Press ENTER.
