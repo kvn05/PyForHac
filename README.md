@@ -36,6 +36,6 @@ Steps to Set Custom Playback Speed on YouTube:
 1. Go to the video.
 2. Press CTRL + SHIFT + J or COMMAND + OPTION + J to open the JavaScript Console.
 3. Copy and paste the following:
-    - document.querySelector('video').playbackRate = x;
+    - **document.querySelector('video').playbackRate = x;**
   x equals the speed you want;
 4. Press ENTER.
